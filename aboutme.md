@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Pol Monterde, I am from Badalona and I love learning new skills. Have a look at my background below!
+My name is Pol Monterde, I am from Badalona and I love data! Have a look at my background below.
 
 ### Education
 
