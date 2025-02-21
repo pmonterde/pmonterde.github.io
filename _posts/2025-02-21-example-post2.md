@@ -42,13 +42,13 @@ Users can invite colleagues to review and process imaging data collaboratively u
 ### Home Page View
 The home page displays a card-based organization system where users can manage imaging datasets efficiently.
 
-![CHIPS Home Page](https://example.com/chips_home_page.jpg)  
+![CHIPS Home Page](images/image3.JPG)
 *Figure 1: CHIPS home page with organized imaging data.*
 
 ### Data Processing Workflow
 Users can apply various processing pipelines to their imaging data. CHIPS supports advanced imaging techniques such as segmentation, reconstruction, and volumetric analysis.
 
-![Data Processing in CHIPS](https://example.com/chips_processing.jpg)  
+![Data Processing in CHIPS](images/image3.JPG)  
 *Figure 2: Visualizing and processing medical image data.*
 
 ## Big Data and AI Integration
