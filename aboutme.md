@@ -12,4 +12,4 @@ My name is Pol Monterde, I am from Badalona and I love data! Have a look at my b
 - Master in Health Data Science at URV-UGA (2024 - Present)
 
 ### Experience
-- R&D Engineer on diagnostic devices at Leitat Technological Center (2021 - 2024)
+- R&D Engineer on diagnostic devices at Leitat Technological Center, Terrassa (2021 - 2024)
