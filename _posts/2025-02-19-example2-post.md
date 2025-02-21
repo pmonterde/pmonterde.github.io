@@ -10,8 +10,6 @@ mathjax: true
 author: Pol Monterde
 ---
 
-{: .box-success}
-
 # CHIPS – A Cloud-Based Medical Image Processing Platform
 
 ## Introduction
