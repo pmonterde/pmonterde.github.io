@@ -10,9 +10,7 @@ mathjax: true
 author: Pol Monterde
 ---
 
-# CHIPS – A Cloud-Based Medical Image Processing Platform
-
-## Introduction
+{: .box-success}
 CHIPS (Cloud Healthcare Image Processing Service) is a cloud-based platform designed to facilitate the retrieval, organization, processing, and sharing of medical image data. With the increasing reliance on web-based applications, CHIPS leverages modern web technologies and containerized computing to provide a seamless, secure, and efficient system for managing medical imaging workflows.
 
 This post summarizes the research paper introducing CHIPS and highlights its key functionalities, architecture, and impact on medical imaging.
