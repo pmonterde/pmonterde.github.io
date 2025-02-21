@@ -11,6 +11,7 @@ author: Pol Monterde
 ---
 
 {: .box-success}
+
 CHIPS (Cloud Healthcare Image Processing Service) is a cloud-based platform designed to facilitate the retrieval, organization, processing, and sharing of medical image data. With the increasing reliance on web-based applications, CHIPS leverages modern web technologies and containerized computing to provide a seamless, secure, and efficient system for managing medical imaging workflows.
 
 This post summarizes the research paper introducing CHIPS and highlights its key functionalities, architecture, and impact on medical imaging.
@@ -43,14 +44,8 @@ Users can invite colleagues to review and process imaging data collaboratively u
 ### Home Page View
 The home page displays a card-based organization system where users can manage imaging datasets efficiently.
 
-![CHIPS Home Page](https://example.com/chips_home_page.jpg)  
-*Figure 1: CHIPS home page with organized imaging data.*
-
 ### Data Processing Workflow
 Users can apply various processing pipelines to their imaging data. CHIPS supports advanced imaging techniques such as segmentation, reconstruction, and volumetric analysis.
-
-![Data Processing in CHIPS](https://example.com/chips_processing.jpg)  
-*Figure 2: Visualizing and processing medical image data.*
 
 ## Big Data and AI Integration
 CHIPS is designed to support future big data applications and machine learning models:
