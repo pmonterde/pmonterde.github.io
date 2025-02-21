@@ -1,10 +1,10 @@
 ---
 layout: post
-title: CHIPS
+title: CHIPS – A Cloud-Based Medical Image Processing Platform
 subtitle: Revolutionising Medical Imaging with Cloud Computing
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test, cloud computing]
+tags: [cloud computing, cloud, healthcare, biomedicine medical imaging]
 comments: true
 mathjax: true
 author: Bill Smith
