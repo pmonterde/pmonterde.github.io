@@ -68,7 +68,7 @@ CHIPS is designed to support future big data applications and machine learning m
 - **Data Mining:** Structured metadata from medical images can be used for clinical research and pattern recognition.
 
 ![Data Pre-Processing in CHIPS](/images/preprocessing.png)  
-*Figure 5: Visualizing and processing medical image data.*
+*Figure 5: Big data pre-processing.*
 
 ## Conclusion
 CHIPS represents a significant advancement in cloud-based medical imaging management. By integrating secure data handling, real-time collaboration, and cloud processing, it provides an efficient and scalable solution for healthcare professionals and researchers.
