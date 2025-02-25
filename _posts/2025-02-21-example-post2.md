@@ -43,6 +43,7 @@ Users can invite colleagues to review and process imaging data collaboratively u
 The home page displays a card-based organization system where users can manage imaging datasets efficiently.
 
 ![CHIPS Home Page](/images/home_page.png)
+
 *Figure 1: CHIPS home page with organized imaging data.*
 
 ### Data Processing Workflow
