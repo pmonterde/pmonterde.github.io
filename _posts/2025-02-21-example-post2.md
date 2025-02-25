@@ -27,12 +27,14 @@ CHIPS provides several important features that enhance the management of medical
 The CHIPS platform is designed using a distributed architecture consisting of several interconnected components:
 
 ![CHIPS Architecture](/images/architecture.png)
+
 *Figure 1: The internal CHIPS logical architecture.*
 
 ### 1. Input Data Sources
 CHIPS connects with the hospital Picture Archive and Communication Systems (PACS) to collect medical images. It supports anonymization processes to comply with data privacy regulations.
 
 ![CHIPS Compute Nodes](/images/nodes.png)
+
 *Figure 2: CHIPS connects multiple input PACS sources to multiple "cloud" compute nodes.*
 
 ### 2. Cloud-Based Processing
