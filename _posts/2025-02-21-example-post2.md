@@ -26,8 +26,14 @@ CHIPS provides several important features that enhance the management of medical
 ## System Architecture
 The CHIPS platform is designed using a distributed architecture consisting of several interconnected components:
 
+![CHIPS Architecture](/images/architecture.png)
+*Figure 1: The internal CHIPS logical architecture.*
+
 ### 1. Input Data Sources
-CHIPS connects with hospital Picture Archive and Communication Systems (PACS) to collect medical images. It supports anonymization processes to comply with data privacy regulations.
+CHIPS connects with the hospital Picture Archive and Communication Systems (PACS) to collect medical images. It supports anonymization processes to comply with data privacy regulations.
+
+![CHIPS Compute Nodes](/images/nodes.png)
+*Figure 2: CHIPS connects multiple input PACS sources to multiple "cloud" compute nodes.*
 
 ### 2. Cloud-Based Processing
 Data processing is handled using containerized services that distribute tasks across multiple cloud resources. This ensures scalability and efficiency in analyzing large medical imaging datasets.
@@ -44,13 +50,13 @@ The home page displays a card-based organization system where users can manage i
 
 ![CHIPS Home Page](/images/home_page.png)
 
-*Figure 1: CHIPS home page with organized imaging data.*
+*Figure 3: CHIPS home page with organized imaging data.*
 
 ### Data Processing Workflow
 Users can apply various processing pipelines to their imaging data. CHIPS supports advanced imaging techniques such as segmentation, reconstruction, and volumetric analysis.
 
 ![Data Processing in CHIPS](/images/visual_data.png)  
-*Figure 2: Visualizing and processing medical image data.*
+*Figure 4: Visualizing and processing medical image data.*
 
 ## Big Data and AI Integration
 CHIPS is designed to support future big data applications and machine learning models:
@@ -58,6 +64,9 @@ CHIPS is designed to support future big data applications and machine learning m
 - **Predictive Analytics:** CHIPS can store and process large imaging datasets for training AI models.
 - **Automated Diagnosis:** AI-assisted tools can analyze imaging data for early disease detection.
 - **Data Mining:** Structured metadata from medical images can be used for clinical research and pattern recognition.
+
+![Data Pre-Processing in CHIPS](/images/preprocessing.png)  
+*Figure 5: Visualizing and processing medical image data.*
 
 ## Conclusion
 CHIPS represents a significant advancement in cloud-based medical imaging management. By integrating secure data handling, real-time collaboration, and cloud processing, it provides an efficient and scalable solution for healthcare professionals and researchers.
